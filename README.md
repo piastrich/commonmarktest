@@ -12,4 +12,4 @@ $$ x=(-b±\sqrt(b^2-4ac))/2a $$
 
 # Github only section
 
-[Obsidian screenshot for comparison](image.png)
+![Obsidian screenshot for comparison](image.png)
